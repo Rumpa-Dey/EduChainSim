@@ -1,0 +1,12 @@
+# === Global ignores ===
+*.log
+*.env
+.DS_Store
+
+# Dependency folders
+frontend/node_modules/
+backend/node_modules/
+
+# Build output
+frontend/build/
+backend/dist/
