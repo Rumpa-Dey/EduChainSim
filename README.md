@@ -23,17 +23,17 @@ EduChainSim is an interactive learning tool designed to help students, developer
  ## 📸 Screenshots
 
 ### ✍️ Solidity Code Editor
-![Solidity Editor](screenshots/editor.png)
+![Solidity Editor](screenshots/editor.PNG)
 
 ### 🔧 Function Interaction Interface
-![Function Interaction](screenshots/function_interaction.png)
+![Function Interaction](screenshots/function_interaction.PNG)
 
 ### 📘 Guided Lessons Sidebar
-![Guided Lessons](screenshots/guided_lessons.png)
+![Guided Lessons](screenshots/guided_lessons.PNG)
 
 ### 📊 Gas Usage Leaderboard
 Shows how much gas each function call used. Helps learners compare efficiency.
-![Gas Leaderboard](screenshots/gas_leaderboard.png)
+![Gas Leaderboard](screenshots/gas_leaderboard.PNG)
 
 
  
@@ -103,7 +103,7 @@ Now open http://localhost:3000 in your browser
 
 
 
-##  Lesson Examples
+## Lesson Examples
  
 Sample smart contracts included in the guided lessons:
 
